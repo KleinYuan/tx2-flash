@@ -1,6 +1,8 @@
-et's directly to the points without emphesizing how usually people get frustrated on flashing JetPack into NVIDIA TX2 without access to an actually Ubuntu machine.
+## Intro
 
-Therefore, the whole Gist is about how to flash into TX2 with an VM (VirtualBox) on Mac.
+Let's directly to the points without emphesizing how usually people get frustrated on flashing JetPack into NVIDIA TX2 without access to an actually Ubuntu machine.
+
+Therefore, this is all about how to flash into TX2 with an VM (VirtualBox) on Mac.
 
 ## 1. Pre-requisites
 
