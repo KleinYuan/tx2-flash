@@ -71,7 +71,7 @@ Then just follow all the steps (basically from 2 to 12 without 9 in [here](http:
 
 And when download/installation on host machine is finished, you just click all the way to pop up a terminal says : 
 
-[Post Installation](http://docs.nvidia.com/jetpack-l4t/2_1/content/developertools/mobile/jetpack/images/jetpack_l4t_force_recovery_mode.001_600x364.png)
+![Post Installation](http://docs.nvidia.com/jetpack-l4t/2_1/content/developertools/mobile/jetpack/images/jetpack_l4t_force_recovery_mode.001_600x364.png)
 
 
 And now, here's the tricky part:
