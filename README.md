@@ -30,7 +30,7 @@ Extension is needed to enable USB-2/USB-3 connection/communications between any 
 
 Download Ubuntu 14.04 iso image from [here](http://releases.ubuntu.com/14.04/ubuntu-14.04.5-desktop-amd64.iso).
 
-(Ubuntu 16.04 may work, but I haven't tried)
+(Ubuntu 16.04 may also work, even I haven't tried it on my own. But here's a [proof](https://devtalk.nvidia.com/default/topic/1002081/jetson-tx2/jetpack-3-0-install-with-a-vm/post/5210987/#5210987) that Ubuntu 16.04 should also work.)
 
 Then, create an ubuntu machine with following settings:
 
