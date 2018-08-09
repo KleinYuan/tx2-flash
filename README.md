@@ -82,7 +82,7 @@ And now, here's the tricky part:
 
 - [X] Follow the descriptions, to power off TX2, connect to host-machine, power on, press ..... (just follow what they said), but just hold on Press Enter on host machine 
 
-- [X] Before you Press Ener on host machine's terminal, open settings of your VM, and go to Settings --> Ports --> USB, and click `Add new USB filters with all ..... (blahblahblah)`, then add `NVIDIA Corp. APX`
+- [X] Before you Press Enter on host machine's terminal, open settings of your VM, and go to Settings --> Ports --> USB, and click `Add new USB filters with all ..... (blahblahblah)`, then add `NVIDIA Corp. APX`
 
 - [X] Then, go to VM, click bottom right corner the button with shape an USB (pbbly forth one), and select `NVIDIA Corp. APX`, (it would be great to unplug any other USB devices from your Mac)
 
